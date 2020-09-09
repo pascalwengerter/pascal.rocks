@@ -1,6 +1,6 @@
 .container {
   min-height: 100vh;
-  padding: 0 0.5rem;
+  padding: 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -19,6 +19,8 @@
 .footer {
   width: 100%;
   height: 100px;
+  color: #eaeaea;
+  background: #00008B;
   border-top: 1px solid #eaeaea;
   display: flex;
   justify-content: center;
@@ -36,7 +38,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #00008B;
   text-decoration: none;
 }
 
@@ -86,19 +88,21 @@
   flex-basis: 45%;
   padding: 1.5rem;
   text-align: left;
-  color: inherit;
+  color: #00008B;
   text-decoration: none;
-  border: 1px solid #eaeaea;
+  background: #eaeaea;
+  border: 1px solid #00008B;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
 }
 
-.card:hover,
+/* unused until cards get turned into links again */
+/* .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
-}
+  color: #00008B;
+  border-color: #00008B;
+} */
 
 .card h3 {
   margin: 0 0 1rem 0;
@@ -109,6 +113,15 @@
   margin: 0;
   font-size: 1.25rem;
   line-height: 1.5;
+}
+
+.card h3 span {
+  float: right;
+  color: #eaeaea;
+  background-color: #ee5522;
+  border-radius: 0.5rem;
+  padding: 0.3rem;
+  font-size: 1rem;
 }
 
 .logo {
