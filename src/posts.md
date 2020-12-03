@@ -4,6 +4,7 @@ title: Posts
 permalink: /posts/
 ---
 
+Coming soon...
 <ul>
   {% for post in site.posts %}
     <li>
