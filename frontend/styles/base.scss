@@ -23,6 +23,10 @@ h1 {
   @apply text-4xl font-bold mb-10;
 }
 
+h3 {
+  @apply text-xl mt-3 mb-2;
+}
+
 .home-card {
   background-color: $body-background-secondary;
   border: 1px solid $body-background-secondary;
@@ -39,12 +43,16 @@ h1 {
   }
 }
 
-.page-card, .post-card {
+.page-card, .post-card, .about-card {
   background-color: $body-background-secondary;
-  @apply shadow-lg py-7 px-16 m-4;
+  @apply shadow-lg m-4;
   h2 {
-    @apply text-2xl font-bold my-4;
+    @apply text-2xl font-bold mt-4 mb-3;
   }
+}
+
+.page-card, .post-card {
+  @apply py-7 px-16;
 }
 
 a {
@@ -52,4 +60,16 @@ a {
   &:hover {
     text-decoration: underline;
   }
+}
+
+.about-img {
+  background-image: url('/images/pascalwengerter.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  @apply h-96 md:h-full rounded-t-2xl md:rounded-tr-none md:rounded-l-2xl;
+}
+
+.about-card {
+  @apply rounded-2xl;
 }

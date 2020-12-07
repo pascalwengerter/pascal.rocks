@@ -13,6 +13,9 @@ module.exports = {
     colors: {
       gray: colors.trueGray,
     },
+    minHeight: {
+      'quarter': '25%',
+    },
     extend: {},
   },
   variants: {

@@ -21,3 +21,9 @@ url: "pascal.rocks" # the base hostname & protocol for your site, e.g. https://e
 permalink: pretty
 
 # timezone: America/Los_Angeles
+
+defaults:
+  - scope:
+      path: "images"
+    values:
+      image: true

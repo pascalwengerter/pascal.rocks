@@ -4,7 +4,7 @@ title: Posts
 permalink: /posts/
 ---
 
-Coming soon...
+<p class="my-32">Coming soon...</p>
 <ul>
   {% for post in site.posts %}
     <li>
