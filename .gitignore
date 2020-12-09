@@ -1,8 +1,6 @@
 # Bridgetown
 output/
 *-cache/
-.bridgetown-cache
-.bridgetown-metadata
 
 # Ruby
 .bundle/
@@ -20,3 +18,4 @@ bbin/
 .vscode
 .yardoc
 doc/
+node_modules
