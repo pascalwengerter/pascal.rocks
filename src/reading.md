@@ -17,4 +17,19 @@ Examinations on how childhood experiences shape our individual handling of anger
 
 ## Past
 
-Coming soon...
+### **The Community Cure: Transforming Health Outcomes Together** by *James Maskell*
+A comprehensive guide on how running group visits could revolutionize healthcare, especially around mental health.
+<br/>
+<br/>
+
+### **Company of One: Why Staying Small Is the Next Big Thing for Business** by *Paul Jarvis*
+Exploring and sketching an antithesis to the Venture Capital centric way of starting a business by keeping things small and as profitable as possible (instead of operating at a loss while aiming for as much growth as possible).
+<br/>
+<br/>
+
+### **Chronicler Of The Winds** by *Henning Mankell*
+A street child tells his extraordinary story while slowly passing away on the roof of an abandoned theatre.
+<br/>
+<br/>
+
+More coming soon...
