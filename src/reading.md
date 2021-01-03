@@ -10,12 +10,12 @@ Exhaustive insights on bootstrapping a SaaS business.
 <br/>
 <br/>
 
+## Past
+
 ### **The Drama of the Gifted Child: The Search for the True Self** by *Alice Miller*
 Examinations on how childhood experiences shape our individual handling of anger and pain.
 <br/>
 <br/>
-
-## Past
 
 ### **The Community Cure: Transforming Health Outcomes Together** by *James Maskell*
 A comprehensive guide on how running group visits could revolutionize healthcare, especially around mental health.
