@@ -10,6 +10,11 @@ Exhaustive insights on bootstrapping a SaaS business.
 <br/>
 <br/>
 
+### **Stuff** by *Daniel Miller*
+A study of material culture and a new way of looking at the objects that surround us.
+<br/>
+<br/>
+
 ## Past
 
 ### **The Drama of the Gifted Child: The Search for the True Self** by *Alice Miller*
