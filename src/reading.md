@@ -4,7 +4,7 @@ title: Reading list
 permalink: /readinglist/
 ---
 
-## Current
+## Currently reading
 ### **Zero to Sold** by *Avid Kahl*
 Exhaustive insights on bootstrapping a SaaS business.
 <br/>
@@ -15,12 +15,14 @@ A study of material culture and a new way of looking at the objects that surroun
 <br/>
 <br/>
 
-## Past
+## 2021
 
 ### **The Drama of the Gifted Child: The Search for the True Self** by *Alice Miller*
 Examinations on how childhood experiences shape our individual handling of anger and pain.
 <br/>
 <br/>
+
+## 2020
 
 ### **The Community Cure: Transforming Health Outcomes Together** by *James Maskell*
 A comprehensive guide on how running group visits could revolutionize healthcare, especially around mental health.

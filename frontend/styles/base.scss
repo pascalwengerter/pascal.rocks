@@ -22,11 +22,14 @@ main .content {
 }
 
 h1 {
+  @apply text-4xl font-bold mb-10;
+}
+
+.h1-code {
   padding: 3rem;
   border-radius: 0.9rem;
   background-color: #010101;
   color: lime;
-  @apply text-4xl font-bold mb-10;
 }
 
 h2 {
@@ -38,7 +41,9 @@ h3 {
 }
 
 p {
-  line-height: 2rem;
+  line-height: 1.7rem;
+  margin-bottom: 0.75rem;
+  margin-top: 0.75rem;
 }
 
 a {
@@ -62,6 +67,13 @@ a {
 
 .page-card, .post-card {
   @apply py-7 px-8 md:px-16;
+}
+
+.post-card {
+  img {
+    width: 100%;
+    height: auto;
+  }
 }
 
 .about-img {
@@ -90,4 +102,13 @@ details > summary {
 }
 details > summary::-webkit-details-marker {
   display: none;
+}
+
+.postslist {
+  a {
+    background: transparent;
+    color: $body-background;
+    display: block;
+    @apply py-3;
+  }
 }
