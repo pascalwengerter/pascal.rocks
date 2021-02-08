@@ -17,6 +17,10 @@ main, footer {
   max-width: 60rem;
 }
 
+main .content {
+  margin: 0 2rem;
+}
+
 h1 {
   padding: 3rem;
   border-radius: 0.9rem;
@@ -36,9 +40,6 @@ h3 {
 .page-card, .post-card, .about-card {
   background-color: $body-background-secondary;
   @apply shadow-lg m-4;
-  h2 {
-    @apply text-2xl font-bold mt-4 mb-3;
-  }
 }
 
 .page-card, .post-card {
@@ -51,8 +52,7 @@ p {
 
 a {
   background-color: $body-background;
-  padding: 0.35rem;
-  border: 1px solid $body-background;
+  padding: 0.25rem;
   color: $body-color;
   &:hover {
     opacity: 0.5;
