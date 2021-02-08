@@ -18,7 +18,7 @@ main, footer {
 }
 
 main .content {
-  margin: 0 2rem;
+  @apply my-0 mx-4 md:mx-8;
 }
 
 h1 {
@@ -37,15 +37,6 @@ h3 {
   @apply text-xl mt-3 mb-2;
 }
 
-.page-card, .post-card, .about-card {
-  background-color: $body-background-secondary;
-  @apply shadow-lg m-4;
-}
-
-.page-card, .post-card {
-  @apply py-7 px-16;
-}
-
 p {
   line-height: 2rem;
 }
@@ -59,16 +50,26 @@ a {
   }
 }
 
+.page-card, .post-card, .about-card {
+  background-color: $body-background-secondary;
+  -moz-box-shadow:    inset 0 0 10px $body-background-secondary;
+  -webkit-box-shadow: inset 0 0 10px $body-background-secondary;
+  box-shadow:         inset 0 0 10px $body-background-secondary;
+  border: 2px solid $body-background;
+  background: white;
+  @apply shadow-lg m-4 rounded-2xl;
+}
+
+.page-card, .post-card {
+  @apply py-7 px-8 md:px-16;
+}
+
 .about-img {
   background-image: url('/images/pascalwengerter.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
   @apply h-96 md:h-full rounded-t-2xl md:rounded-tr-none md:rounded-l-2xl;
-}
-
-.about-card {
-  @apply rounded-2xl;
 }
 
 footer {
