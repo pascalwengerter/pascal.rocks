@@ -12,8 +12,48 @@ Exhaustive insights on bootstrapping a SaaS business.
 
 ## 2021
 
+### **Computer Networking: Beginner’s guide for Mastering Computer Networking and the OSI Model** by *Ramon Nastase* 
+tbd
+<br/>
+<br/>
+
+### **The Diary of a Young Girl** by *Anne Frank* 
+tbd
+<br/>
+<br/>
+
+### **Into the Wild** by *Jon Krakauer*
+tbd
+<br/>
+<br/>
+
+### **Citadel (The Palladium Wars Book 3)** by *Marko Kloos*
+Science-fiction roman following a handful of  protagonists through the struggles of interplanetary terrorism.
+<br/>
+<br/>
+
+### **Frankenstein** by *Mary Shelley*
+Incredible storytelling, heavily recommended over watchin a movie with the same name.
+<br/>
+<br/>
+
+### **1984** by *George Orwell*
+Somehow never came to reading that classic, ended up being even more disturbing than expected.
+<br/>
+<br/>
+
+### **Ballistic (The Palladium Wars Book 2)** by *Marko Kloos*
+Science-fiction roman following a handful of  protagonists through the struggles of interplanetary terrorism.
+<br/>
+<br/>
+
+### **Aftershocks (The Palladium Wars Book 1)** by *Marko Kloos*
+Science-fiction roman following a handful of  protagonists through the struggles of interplanetary terrorism.
+<br/>
+<br/>
+
 ### **Der Koch** by *Martin Suter*
-Roman on a tamil asylum seeker cooking aphrodisiac food whilst navigating a satirical portrait of the global financial crysis around 2009.
+Roman on a tamilian asylum seeker cooking aphrodisiac food whilst navigating a satirical portrait of the global financial crysis around 2009.
 <br/>
 <br/>
 
