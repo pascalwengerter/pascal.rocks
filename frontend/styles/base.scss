@@ -112,3 +112,19 @@ details > summary::-webkit-details-marker {
     @apply py-3;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  body,  .page-card, .post-card, .about-card {
+    background-color: #010101;
+    color: $body-background-secondary;
+  }
+  h1 {
+    border: 2px solid limegreen;
+  }
+  details > summary {
+    background-color: $body-background;
+    color: $body-color;
+    margin-top: 1rem;
+    padding: 0.25rem;
+  }
+}
