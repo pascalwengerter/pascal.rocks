@@ -10,7 +10,29 @@ Exhaustive insights on bootstrapping a SaaS business.
 <br/>
 <br/>
 
+### **Oliver Twist** by *Charles Dickens*
+tbd
+<br/>
+<br/>
+
+## 2022
+
+### **The Reader** by *Bernhard Schlink*
+tbd
+<br/>
+<br/>
+
+### **Over to You: Ten Stories of Flyers and Flying** by *Roald Dahl*
+tbd
+<br/>
+<br/>
+
 ## 2021
+
+### **Decisive Moments in History** by *Stefan Zweig* 
+tbd
+<br/>
+<br/>
 
 ### **Computer Networking: Beginner’s guide for Mastering Computer Networking and the OSI Model** by *Ramon Nastase* 
 tbd
