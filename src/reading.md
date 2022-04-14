@@ -5,25 +5,45 @@ permalink: /readinglist/
 ---
 
 ## Currently reading
-### **Zero to Sold** by *Avid Kahl*
-Exhaustive insights on bootstrapping a SaaS business.
+### **Atlas Shrugged** by *Ayn Rand*
+tbd
 <br/>
 <br/>
 
-### **Oliver Twist** by *Charles Dickens*
+### **Perfume: The Story of a Murderer** by *Patrick Süskind*
 tbd
 <br/>
 <br/>
 
 ## 2022
 
+### **Chronicle of a death foretold** by *Gabriel García Márquez*
+Thrilling and fantastic story based on real-life in Colombia
+<br/>
+<br/>
+
 ### **The Reader** by *Bernhard Schlink*
-tbd
+Finally got around reading this after only having dim memories of eventually watching half of a movie sometime back in school
+<br/>
+<br/>
+
+### **Sentenced to War Book 1-7** by *Jonathan P. Brazee and J.N. Chaney*
+Easily digestable yet somewhat catching sci-fi series
 <br/>
 <br/>
 
 ### **Over to You: Ten Stories of Flyers and Flying** by *Roald Dahl*
 tbd
+<br/>
+<br/>
+
+### **Moby Dick** by *Herman Melville*
+Aborted reading after a couple dozen pages
+<br/>
+<br/>
+
+### **Oliver Twist** by *Charles Dickens*
+Aborted reading after a couple dozen pages
 <br/>
 <br/>
 
