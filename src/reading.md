@@ -17,6 +17,11 @@ tbd
 
 ## 2022
 
+### **Alice's Adventures in Wonderland** by *Lewis Carroll*
+Weirdly unsatisfying read, had hoped for more actual content after having watched one of the mainstream film adaption ages ago
+<br/>
+<br/>
+
 ### **Chronicle of a death foretold** by *Gabriel García Márquez*
 Thrilling and fantastic story based on real-life in Colombia
 <br/>
