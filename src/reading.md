@@ -10,12 +10,12 @@ tbd
 <br/>
 <br/>
 
+## 2022
+
 ### **Perfume: The Story of a Murderer** by *Patrick Süskind*
 tbd
 <br/>
 <br/>
-
-## 2022
 
 ### **Alice's Adventures in Wonderland** by *Lewis Carroll*
 Weirdly unsatisfying read, had hoped for more actual content after having watched one of the mainstream film adaption ages ago
@@ -60,6 +60,16 @@ tbd
 <br/>
 
 ### **Computer Networking: Beginner’s guide for Mastering Computer Networking and the OSI Model** by *Ramon Nastase* 
+tbd
+<br/>
+<br/>
+
+### **The employees** by **
+tbd
+<br/>
+<br/>
+
+### **Dune** by *Frank Herbert?*
 tbd
 <br/>
 <br/>

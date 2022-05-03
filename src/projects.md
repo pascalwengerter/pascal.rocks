@@ -7,12 +7,12 @@ permalink: /projects/
 ## Currently
 
 ### MuscleMate.app
-Frustrated with tracking- and advertisement-heavy workout apps, I have decided to create my own, very basic solution. It's built with [Vue3](vuejs.org/) and [TailwindCSS](https://tailwindcss.com/){:target="_blank"} and deployed on [Vercel](https://vercel.com){:target="_blank"}. You can find it running here: [MuscleMate.app](https://musclemate.app){:target="_blank"}
+Frustrated with tracking- and advertisement-heavy workout apps, I have decided to create my own, very basic solution. It's built with [Vue3](vuejs.org/) and [TailwindCSS](https://tailwindcss.com/){:target="_blank"} and deployed on [Vercel](https://vercel.com){:target="_blank"}. You can find it running here: [MuscleMate.app](https://musclemate.app){:target="_blank"}.
 
 ---
 
-### Online Tabata Music Tool
-Create HIIT soundtracks from your own MP3s. Currently under development, link to be found here soon.
+### Online Tabata Workout Track Creator
+Create HIIT soundtracks from your own MP3s. You can find it running here: [tabata.MuscleMate.app](https://tabata.musclemate.app){:target="_blank"}.
 
 ---
 
