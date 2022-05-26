@@ -12,6 +12,11 @@ tbd
 
 ## 2022
 
+### **Slaughterhouse-Five, or the Children's Crusade** by *Kurt Vonnegut*
+tbd
+<br/>
+<br/>
+
 ### **Perfume: The Story of a Murderer** by *Patrick Süskind*
 tbd
 <br/>
@@ -32,7 +37,7 @@ Finally got around reading this after only having dim memories of eventually wat
 <br/>
 <br/>
 
-### **Sentenced to War Book 1-7** by *Jonathan P. Brazee and J.N. Chaney*
+### **Sentenced to War Book 1-8** by *Jonathan P. Brazee and J.N. Chaney*
 Easily digestable yet somewhat catching sci-fi series
 <br/>
 <br/>
