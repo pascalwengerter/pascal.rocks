@@ -12,6 +12,16 @@ tbd
 
 ## 2022
 
+### **Eternal Fascism: Fourteen Ways of Looking at a Blackshirt ** by *Umberto Eco*
+tbd
+<br/>
+<br/>
+
+### **Sentenced to War Book 9** by *Jonathan P. Brazee and J.N. Chaney*
+Easily digestable yet somewhat catching sci-fi series
+<br/>
+<br/>
+
 ### **Slaughterhouse-Five, or the Children's Crusade** by *Kurt Vonnegut*
 tbd
 <br/>
