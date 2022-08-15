@@ -12,7 +12,17 @@ tbd
 
 ## 2022
 
-### **Eternal Fascism: Fourteen Ways of Looking at a Blackshirt ** by *Umberto Eco*
+### **The Black Friend: On Being a Better White Person** by *Frederick Joseph*
+tbd
+<br/>
+<br/>
+
+### **My Uncle, The Jaguar** by *João Guimaraes Rosa*
+tbd
+<br/>
+<br/>
+
+### **Eternal Fascism: Fourteen Ways of Looking at a Blackshirt** by *Umberto Eco*
 tbd
 <br/>
 <br/>
