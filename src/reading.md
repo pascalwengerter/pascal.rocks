@@ -5,12 +5,33 @@ permalink: /readinglist/
 ---
 
 ## Currently reading
-### **Atlas Shrugged** by *Ayn Rand*
+
+### **The Three-Body Problem** by *Cixin Liu*
+tbd
+<br/>
+<br/>
+
+### **Seven Languages in Seven Weeks** by *Bruce A. Tate*
 tbd
 <br/>
 <br/>
 
 ## 2022
+
+### **Sentenced to War Book 10** by *Jonathan P. Brazee and J.N. Chaney*
+Easily digestable yet somewhat catching sci-fi series
+<br/>
+<br/>
+
+### **Orders of Battle (Frontlines Book 8)** by *Marko Kloos*
+Science-fiction roman following the protagonist from his youth in a dystopian suburb to joining the military, rising throught the ranks whilst defending earth from an alien threat.
+<br/>
+<br/>
+
+### **Camouflage** by *Joe Haldeman*
+tbd
+<br/>
+<br/>
 
 ### **The Black Friend: On Being a Better White Person** by *Frederick Joseph*
 tbd
@@ -32,12 +53,22 @@ Easily digestable yet somewhat catching sci-fi series
 <br/>
 <br/>
 
+### **Atlas Shrugged** by *Ayn Rand*
+Eventually aborted reading after a couple hundred pages
+<br/>
+<br/>
+
 ### **Slaughterhouse-Five, or the Children's Crusade** by *Kurt Vonnegut*
 tbd
 <br/>
 <br/>
 
 ### **Perfume: The Story of a Murderer** by *Patrick Süskind*
+tbd
+<br/>
+<br/>
+
+### **The Wirecard Story** by *Volker ter Haseborg, Melanie Bergermann*
 tbd
 <br/>
 <br/>
