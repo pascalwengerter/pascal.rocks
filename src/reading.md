@@ -6,7 +6,7 @@ permalink: /readinglist/
 
 ## Currently reading
 
-### **The Three-Body Problem** by *Cixin Liu*
+### **Death's End** by *Cixin Liu*
 tbd
 <br/>
 <br/>
@@ -17,6 +17,16 @@ tbd
 <br/>
 
 ## 2022
+
+### **The Dark Forest** by *Cixin Liu*
+tbd
+<br/>
+<br/>
+
+### **The Three-Body Problem** by *Cixin Liu*
+tbd
+<br/>
+<br/>
 
 ### **Sentenced to War Book 10** by *Jonathan P. Brazee and J.N. Chaney*
 Easily digestable yet somewhat catching sci-fi series
