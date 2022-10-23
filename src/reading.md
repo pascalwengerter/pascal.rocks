@@ -6,17 +6,17 @@ permalink: /readinglist/
 
 ## Currently reading
 
-### **Death's End** by *Cixin Liu*
-tbd
-<br/>
-<br/>
-
 ### **Seven Languages in Seven Weeks** by *Bruce A. Tate*
 tbd
 <br/>
 <br/>
 
 ## 2022
+
+### **Death's End** by *Cixin Liu*
+tbd
+<br/>
+<br/>
 
 ### **The Dark Forest** by *Cixin Liu*
 tbd
