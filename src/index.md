@@ -7,4 +7,4 @@ Glad you made it here! Find out more [about me](/about) or what I'm currently [w
 
 ## Contact
 
-You can find me on [Twitter](https://twitter.com/pascalwengerter) and [LinkedIn](https://linkedin.com/in/pascalwengerter/) or just send me an [email](mailto:heyyy@pascal.rocks).
+You can find me on [LinkedIn](https://linkedin.com/in/pascalwengerter/) or just send me an [email](mailto:heyyy@pascal.rocks).
