@@ -13,6 +13,11 @@ tbd
 
 ## 2022
 
+### **Of Mice And Men** by *John Steinbeck*
+tbd
+<br/>
+<br/>
+
 ### **Sourcery** by *Terry Pratchett*
 First Discworld series novel I've ever read. While I liked it, it'll also be the last one for a while.
 <br/>
