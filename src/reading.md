@@ -11,7 +11,14 @@ tbd
 <br/>
 <br/>
 
+## 2023
+
 ## 2022
+
+### **First Kill (Sentenced to War Book)** by *Jonathan P. Brazee and J.N. Chaney*
+Easily digestable yet somewhat catching sci-fi series
+<br/>
+<br/>
 
 ### **Of Mice And Men** by *John Steinbeck*
 tbd
@@ -28,6 +35,11 @@ tbd
 <br/>
 <br/>
 
+### **Sentenced to War Book 11** by *Jonathan P. Brazee and J.N. Chaney*
+Easily digestable yet somewhat catching sci-fi series
+<br/>
+<br/>
+
 ### **The Dark Forest** by *Cixin Liu*
 tbd
 <br/>
@@ -40,6 +52,16 @@ tbd
 
 ### **Sentenced to War Book 10** by *Jonathan P. Brazee and J.N. Chaney*
 Easily digestable yet somewhat catching sci-fi series
+<br/>
+<br/>
+
+### **Lucky Thirteen (Frontlines Series)** by *Marko Kloos*
+Science-fiction roman following the protagonist from his youth in a dystopian suburb to joining the military, rising throught the ranks whilst defending earth from an alien threat.
+<br/>
+<br/>
+
+### **Measures of Absolution (Frontlines Series)** by *Marko Kloos*
+Science-fiction roman following the protagonist from his youth in a dystopian suburb to joining the military, rising throught the ranks whilst defending earth from an alien threat.
 <br/>
 <br/>
 
