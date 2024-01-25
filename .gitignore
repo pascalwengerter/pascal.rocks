@@ -1,21 +1,24 @@
-# Bridgetown
-output/
-*-cache/
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
 
-# Ruby
-.bundle/
-
-# Files
-.DS_Store
-
-# Folders
-/vendor
-bbin/
-*/coverage
-*/pkg/
-*/test/dest
-*/tmp/*
-.vscode
-.yardoc
-doc/
+# Node dependencies
 node_modules
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
