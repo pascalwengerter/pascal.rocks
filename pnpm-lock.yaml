@@ -12,8 +12,8 @@ dependencies:
     specifier: 1.3.0
     version: 1.3.0
   '@picocss/pico':
-    specifier: ^2.0.0-rc3
-    version: 2.0.0-rc3
+    specifier: ^1.5.11
+    version: 1.5.11
   nuxt:
     specifier: ^3.9.3
     version: 3.9.3(vite@5.0.12)
@@ -1477,9 +1477,8 @@ packages:
       '@parcel/watcher-win32-x64': 2.4.0
     dev: false
 
-  /@picocss/pico@2.0.0-rc3:
-    resolution: {integrity: sha512-mx+xPn3fmSfy3toj/y4BySSxDxPRj8AjWkmmYFDgcJvgIo/9ceR6eQI4uqToeENe3gt5uK9GtZT7vuF4JYThfw==}
-    engines: {node: '>=18.19.0'}
+  /@picocss/pico@1.5.11:
+    resolution: {integrity: sha512-cDaFiSyNPtuSTwSQt/05xsw8+g2ek4/S58tgh9Nc7miJCCdUrY9PAyl4OPWRJtYgJDdEvkUA9GuGj0J4nDP4Cw==}
     dev: false
 
   /@pkgjs/parseargs@0.11.0:
