@@ -4,7 +4,7 @@
     <p>Glad you made it here!</p>
     <p>
       Find out more <NuxtLink to="/about">about me</NuxtLink> or what I'm
-      currently <NuxtLink to="/projects">working on </NuxtLink>. There's also a
+      currently <NuxtLink to="/projects">working on</NuxtLink>. There's also a
       <NuxtLink to="/posts">blog</NuxtLink> in the making, and my
       <NuxtLink to="/readinglist">reading list</NuxtLink> since I'm a sucker for
       books!

@@ -5,13 +5,39 @@ tbd
 <br/>
 <br/>
 
+### **I Contain Multitudes: The Microbes Within Us and a Grander View of Life** by *Ed Yong*
+tbd
+<br/>
+<br/>
+
 ## 2024
 
-Let's find out...
+### **Scorpio (Frontlines Evolution Series)** by *Marko Kloos*
+tbd
+<br/>
+<br/>
 
 ## 2023
 
-Coming soon. I have read a book or two last year, I promise!
+### **Die Wahrheit über Sancho Pansa** by *Stephan Wackwitz*
+tbd
+<br/>
+<br/>
+
+### **Breathe** by *Rickson Gracie*
+Memoirs of one of the most formative figures in the history of Brazilian Jiu-Jitsu and mixed martial arts.
+<br/>
+<br/>
+
+### **The Terror** by *Dan Simmons*
+If you ever wondered just about how crazy of an undertaking crossing the north pole in the 19th century was, this book is for you.
+<br/>
+<br/>
+
+### **The Complete Sherlock Holmes: Volumes 1-4** by *Arthur Conan Doyle*
+tbd
+<br/>
+<br/>
 
 ## 2022
 
