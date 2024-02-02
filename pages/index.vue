@@ -6,8 +6,8 @@
       Find out more <NuxtLink to="/about">about me</NuxtLink> or what I'm
       currently <NuxtLink to="/projects">working on</NuxtLink>. There's also a
       <NuxtLink to="/posts">blog</NuxtLink> in the making, and my
-      <NuxtLink to="/readinglist">reading list</NuxtLink> since I'm a sucker for
-      books!
+      <NuxtLink to="/reading-list">reading list</NuxtLink> since I'm a sucker
+      for books!
     </p>
     <h2>Contact</h2>
     <p>

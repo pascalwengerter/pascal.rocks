@@ -6,7 +6,7 @@ Joined the team behind an "audio-only" yoga project, covering the tech side by b
 ---
 
 ### MuscleMate.app
-Frustrated with tracking- and advertisement-heavy workout apps, I have decided to create my own, very basic solution. It's built with [Vue3](vuejs.org/) and [TailwindCSS](https://tailwindcss.com/){:target="_blank"} and deployed on [Vercel](https://vercel.com){:target="_blank"}. You can find it running here: [MuscleMate.app](https://musclemate.app){:target="_blank"}.
+Frustrated with tracking- and advertisement-heavy workout apps, I have decided to create my own, very basic solution. It's built with [Vue3](https://vuejs.org/) and [TailwindCSS](https://tailwindcss.com/){:target="_blank"} and deployed on [Vercel](https://vercel.com){:target="_blank"}. You can find it running here: [MuscleMate.app](https://musclemate.app){:target="_blank"}.
 
 ---
 
