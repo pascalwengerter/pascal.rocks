@@ -1,7 +1,7 @@
 <template>
   <div class="grid grid-cols-1 md:grid-cols-10">
     <div class="col-span-1 md:col-span-4">
-      <NuxtImg src="/images/pascalwengerter.jpg" />
+      <NuxtImg src="/images/pascalwengerter.jpg" style="width: 100%" />
     </div>
     <div class="col-span-1 md:col-span-6 py-7 px-8 md:px-16">
       <p>Hey there!</p>
