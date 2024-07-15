@@ -3,10 +3,13 @@
 ### **Seven Languages in Seven Weeks** by *Bruce A. Tate*
 tbd
 
-### **Hyperion Cantos** by *Dan Simmons*
-Re-reading this masterpiece after some years have passed.
+### **Learned Optimism** by * Martin E.P. Seligman*
+Exploring the relation between depression and pessimism.
 
 ## 2024
+
+### **Hyperion Cantos** by *Dan Simmons*
+Re-reading this masterpiece after some years have passed.
 
 ### **I Contain Multitudes: The Microbes Within Us and a Grander View of Life** by *Ed Yong*
 Disliked the writing style since it reads like a Netflix documentary and packs a lot of unrelated and unnecessary details, but interesting read nonetheless. TL;DR: Interacting with dogs leads to happier gut biome, probiotic foods are most likely a scam, one should eat mostly fresh and unprocessed food. Also, humans are crazy.
