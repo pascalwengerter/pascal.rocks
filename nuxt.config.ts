@@ -7,4 +7,9 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  nitro: {
+    prerender: {
+      routes: ["/", "/_ipx/_/images/pascalwengerter.jpg"],
+    },
+  },
 });
