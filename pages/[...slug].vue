@@ -7,3 +7,9 @@
     </ContentDoc>
   </main>
 </template>
+
+<script lang="ts" setup>
+definePageMeta({
+  documentDriven: true,
+});
+</script>
