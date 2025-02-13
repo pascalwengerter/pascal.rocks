@@ -1,9 +1,16 @@
+---
+layout: ../layouts/BlogPost.astro
+title: 'Reading list'
+description: 'Anything, really'
+pubDate: 'Feb 13 2025'
+---
+
 ## Currently reading
 
 ### **Seven Languages in Seven Weeks** by *Bruce A. Tate*
 tbd
 
-### **Learned Optimism** by * Martin E.P. Seligman*
+### **Learned Optimism** by *Martin E.P. Seligman*
 Exploring the relation between depression and pessimism.
 
 ## 2024

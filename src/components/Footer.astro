@@ -1,0 +1,27 @@
+---
+const today = new Date();
+---
+
+<footer>
+  &copy; {today.getFullYear()} Pascal Wengerter. All rights reserved.
+  <details role="button" class="outline contrast">
+    <summary>Legal & Privacy</summary>
+
+    <p>
+      Pascal Wengerter<br />
+      Krozingerstraße 58<br />
+      79114 Freiburg im Breisgau<br />
+      Germany<br /><br />
+      Mail: heyyy@pascal.rocks<br /><br />
+      This website is free of cookies and tracking.
+    </p>
+  </details>
+</footer>
+<style>
+  footer {
+    padding: 2em 1em 6em 1em;
+    background: linear-gradient(var(--gray-gradient)) no-repeat;
+    color: rgb(var(--gray));
+    text-align: center;
+  }
+</style>
