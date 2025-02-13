@@ -5,17 +5,15 @@
 Make sure to install the dependencies:
 
 ```bash
-# pnpm
 pnpm install
 ```
 
 ## Development Server
 
-Start the development server on `http://localhost:3000`:
+Start the development server on `http://localhost:4321`:
 
 ```bash
-# pnpm
-pnpm run dev
+pnpm dev
 ```
 
 ## Production
@@ -23,13 +21,11 @@ pnpm run dev
 Build the application for production:
 
 ```bash
-# pnpm
-pnpm run build
+pnpm build
 ```
 
 Locally preview production build:
 
 ```bash
-# pnpm
-pnpm run preview
+pnpm preview
 ```
