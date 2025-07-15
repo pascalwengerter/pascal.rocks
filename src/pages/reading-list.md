@@ -7,22 +7,39 @@ pubDate: 'Feb 13 2025'
 
 ## Currently reading
 
-### **Seven Languages in Seven Weeks** by *Bruce A. Tate*
+### **Wut** by *Julia Ebner*
 tbd
 
-### **Learned Optimism** by *Martin E.P. Seligman*
-Exploring the relation between depression and pessimism.
+## 2025
+
+### **Gliss** by *Andreas Eschbach*
+tbd
+
+### **The Kite Runner** by *Khaled Hosseini*
+tbd
+
+### **Tomorrow, and Tomorrow, and Tomorrow** by *Gabrielle Zevin*
+tbd
+
+### **A Canticle for Leibowitz** by *Walter M. Miller, Jr.*
+tbd
 
 ## 2024
 
 ### **Hyperion Cantos** by *Dan Simmons*
-Re-reading this masterpiece after some years have passed.
+Re-read this masterpiece after some years.
+
+### **Mindbody Prescription** by *John E. Sarno MD*
+tbd
+
+### **The body keeps the score** by *Bessel van der Kolk MD*
+tbd
 
 ### **I Contain Multitudes: The Microbes Within Us and a Grander View of Life** by *Ed Yong*
 Disliked the writing style since it reads like a Netflix documentary and packs a lot of unrelated and unnecessary details, but interesting read nonetheless. TL;DR: Interacting with dogs leads to happier gut biome, probiotic foods are most likely a scam, one should eat mostly fresh and unprocessed food. Also, humans are crazy.
 
 ### **Scorpio (Frontlines Evolution Series)** by *Marko Kloos*
-tbd
+Easily digestable yet somewhat catching sci-fi series
 
 ## 2023
 
