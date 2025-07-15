@@ -1,7 +1,7 @@
-## Currently
+## Current
 
-### Yado - Yoga auf die Ohren
-Joined the team behind an "audio-only" yoga project, covering the tech side by building a very basic first [web app](https://www.app.yado-yoga.de/). React (my first go at it) frontend with the idea of eventually publishing mobile apps in React-Native, powered by a low-code backend using [Directus](https://directus.io/).
+### Open Mat Radar
+Trying to help other Jiu-Jitsu practicioners find open mats nearby and connect with the community. Built using [Nuxt](https://www.nuxt.com){:target="_blank"} and [Supabase](https://www.supabase.com){:target="_blank"}.
 
 ---
 
@@ -16,9 +16,13 @@ Create HIIT soundtracks from your own MP3s. You can find it running here: [tabat
 ---
 
 ### Pascal.rocks (This website)
-A simple static [Nuxt](https://www.nuxt.com){:target="_blank"} site, styled via [PicoCSS](https://picocss.com/){:target="_blank"} and deployed using [Render](https://render.com){:target="_blank"}.
+A simple static site built using [Astro](https://astro.build/){:target="_blank"}.
 
 ## Past
+
+### Yado - Yoga auf die Ohren
+Joined the team behind an "audio-only" yoga project, covering the tech side by building a very basic first web app wich has since been [migrated](https://www.yado-yoga.de/){:target="_blank"}.
+---
 
 ### Matestack
 Fullstack web development in pure Ruby, bundled as Open Source gem. Powered by Vue.js and Ruby on Rails, find out more [here](https://matestack.io){:target="_blank"}.
