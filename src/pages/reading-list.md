@@ -7,10 +7,26 @@ pubDate: 'Feb 13 2025'
 
 ## Currently reading
 
-### **Wut** by *Julia Ebner*
+...
+
+## 2026
+
+### **Amusing Ourselves to Death: Public Discourse in the Age of Show Business** by *Neil Postman*
+tbd
+
+### **Filterworld: How Algorithms Flattened Culture** by *Kyle Chayka*
+tbd
+
+### **We Should All Be Feminists** by *Chimamanda Ngozi Adichie*
 tbd
 
 ## 2025
+
+### **The Thing Around Your Neck** by *Chimamanda Ngozi Adichie*
+tbd
+
+### **The Power of Geography** by *Tim Marshall*
+tbd
 
 ### **Last Chance to See** by *Douglas Adams & Mark Carwardine*
 tbd
