@@ -2,7 +2,6 @@
 layout: ../layouts/BlogPost.astro
 title: 'Projects'
 description: 'My current and past projects'
-pubDate: 'Feb 13 2025'
 ---
 
 ## Current
