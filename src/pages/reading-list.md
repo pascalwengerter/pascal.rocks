@@ -11,6 +11,12 @@ pubDate: 'Feb 13 2025'
 
 ## 2026
 
+### **Careless People** by *Sarah Wynn-Williams*
+tbd
+
+### **Number Go Up: Inside Crypto's Wild Rise and Staggering Fall** by *Zeke Faux*
+tbd
+
 ### **Amusing Ourselves to Death: Public Discourse in the Age of Show Business** by *Neil Postman*
 tbd
 
