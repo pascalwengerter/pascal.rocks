@@ -11,6 +11,9 @@ pubDate: 'Feb 13 2025'
 
 ## 2026
 
+### **Transcendent Kingdom** by *Yaa Gyasi*
+tbd
+
 ### **Careless People** by *Sarah Wynn-Williams*
 tbd
 
