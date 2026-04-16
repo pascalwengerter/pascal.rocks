@@ -1,0 +1,189 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+/*
+  Edit your projects here — just update the arrays below.
+*/
+const current = [
+  {
+    name: "Open Mat Radar",
+    url: "https://open-mat-radar.com",
+    description:
+      "Trying to help other Jiu-Jitsu practitioners find open mats nearby and connect with the community.",
+    tech: "Nuxt · Supabase",
+  },
+  {
+    name: "MuscleMate.app",
+    url: "https://musclemate.app",
+    description:
+      "Frustrated with tracking- and advertisement-heavy workout apps, I have decided to create my own, very basic solution.",
+    tech: "Vue.js · Tailwind CSS",
+  },
+  {
+    name: "Tabata Workout Track Creator",
+    url: "https://tabata.musclemate.app",
+    description: "Create HIIT soundtracks from your own MP3s.",
+    tech: "Vue.js · Ruby",
+  },
+  {
+    name: "Pascal.rocks",
+    description: "This website — a simple static site.",
+    tech: "Astro",
+  },
+];
+
+const past = [
+  {
+    name: "Yado — Yoga auf die Ohren",
+    url: "https://www.yado-yoga.de/",
+    description:
+      'Joined the team behind an "audio-only" yoga project, covering the tech side by building the MVP web app.',
+      tech: "React · React Native",
+  },
+  {
+    name: "Matestack",
+    url: "https://matestack.io",
+    description:
+      "Fullstack web development in pure Ruby, bundled as an Open Source gem.",
+    tech: "Vue.js · Ruby on Rails",
+  },
+];
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title="Projects" description="My current and past projects" />
+    <style>
+      main {
+        width: 720px;
+        max-width: calc(100% - 2em);
+        margin: auto;
+        padding: 3em 1em;
+      }
+      h1 {
+        text-align: center;
+        margin-bottom: 2em;
+      }
+      .section-label {
+        font-size: 0.8em;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        color: var(--accent);
+        margin: 0 0 1.2em 0;
+      }
+      .project {
+        padding: 1.2em 1.4em;
+        margin-bottom: 1em;
+        background: white;
+        border-radius: 10px;
+        border: 1px solid rgb(var(--gray-light));
+        transition: box-shadow 0.2s ease;
+      }
+      .project:hover {
+        box-shadow: 0 2px 12px rgba(var(--gray), 20%);
+      }
+      .project-name {
+        font-size: 1.15em;
+        font-weight: 700;
+        color: rgb(var(--black));
+        margin: 0;
+        line-height: 1.4;
+      }
+      .project-name a {
+        color: inherit;
+        text-decoration: none;
+      }
+      .project-name a:hover {
+        color: var(--accent);
+      }
+      .project-name .arrow {
+        font-size: 0.85em;
+        opacity: 0.4;
+        transition: opacity 0.2s;
+      }
+      .project-name a:hover .arrow {
+        opacity: 1;
+      }
+      .project-description {
+        margin: 0.3em 0 0;
+        font-size: 0.92em;
+        line-height: 1.6;
+        color: rgb(var(--gray-dark));
+      }
+      .project-tech {
+        margin-top: 0.5em;
+        font-size: 0.78em;
+        color: rgb(var(--gray));
+        letter-spacing: 0.02em;
+      }
+      section + section {
+        margin-top: 3em;
+      }
+      .past .project {
+        background: none;
+        border-style: dashed;
+      }
+      .past .project:hover {
+        background: white;
+      }
+      @media (max-width: 720px) {
+        .project {
+          padding: 1em;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <h1>Projects</h1>
+
+      <section>
+        <p class="section-label">Current</p>
+        {
+          current.map((p) => (
+            <div class="project">
+              <p class="project-name">
+                {p.url ? (
+                  <a href={p.url} target="_blank" rel="noopener noreferrer">
+                    {p.name} <span class="arrow">&nearr;</span>
+                  </a>
+                ) : (
+                  p.name
+                )}
+              </p>
+              <p class="project-description">{p.description}</p>
+              {p.tech && <p class="project-tech">{p.tech}</p>}
+            </div>
+          ))
+        }
+      </section>
+
+      <section class="past">
+        <p class="section-label">Past</p>
+        {
+          past.map((p) => (
+            <div class="project">
+              <p class="project-name">
+                {p.url ? (
+                  <a href={p.url} target="_blank" rel="noopener noreferrer">
+                    {p.name} <span class="arrow">&nearr;</span>
+                  </a>
+                ) : (
+                  p.name
+                )}
+              </p>
+              <p class="project-description">{p.description}</p>
+              {p.tech && <p class="project-tech">{p.tech}</p>}
+            </div>
+          ))
+        }
+      </section>
+    </main>
+    <Footer />
+  </body>
+</html>
