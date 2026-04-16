@@ -11,6 +11,9 @@ pubDate: 'Feb 13 2025'
 
 ## 2026
 
+### **Pachinko** by *Min Jin Lee*
+tbd 
+
 ### **Transcendent Kingdom** by *Yaa Gyasi*
 tbd
 
