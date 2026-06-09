@@ -7,9 +7,19 @@ pubDate: 'Feb 13 2025'
 
 ## Currently reading
 
-...
+### **Homecoming** by *Yaa Gyasi*
+tbd
 
 ## 2026
+
+### **The Song of Achilles** by *Madeline Miller*
+tbd
+
+### **The Last Wish** by *Andrzej Sapkowski*
+tbd
+
+### **Wut** by *Julia Ebner*
+tbd
 
 ### **Pachinko** by *Min Jin Lee*
 tbd 
