@@ -7,7 +7,17 @@ pubDate: 'Feb 13 2025'
 
 ## Currently reading
 
-### **Homecoming** by *Yaa Gyasi*
+
+### **The Power of Regret: How Looking Backward Moves Us Forward** by *Daniel H. Pink*
+tbd
+
+### **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** by *Martin Kleppmann*
+tbd
+
+### **Corruptible: Who Gets Power and How It Changes Us** by *Brian Klaas*
+tbd
+
+### **Moralische Ambition** by *Rutger Bregman*
 tbd
 
 ## 2026
@@ -86,6 +96,9 @@ Disliked the writing style since it reads like a Netflix documentary and packs a
 Easily digestable yet somewhat catching sci-fi series
 
 ## 2023
+
+### **Can't Hurt Me: Master Your Mind and Defy the Odds** by *David Goggins*
+tbd
 
 ### **Die Wahrheit über Sancho Pansa** by *Stephan Wackwitz*
 Not sure why I ended up reading this, but nice experience overall.
@@ -237,14 +250,105 @@ Examinations on how childhood experiences shape our individual handling of anger
 
 ## 2020
 
+### **The Untethered Soul: The Journey Beyond Yourself** by *Michael A. Singer*
+tbd
+
+### **The Surrender Experiment: My Journey into Life's Perfection** by *Michael A. Singer*
+tbd
+
 ### **The Community Cure: Transforming Health Outcomes Together** by *James Maskell*
 A comprehensive guide on how running group visits could revolutionize healthcare, especially around mental health.
+
+### **Asoziales Wohnen** by *Dirk Bernemann*
+tbd
 
 ### **Company of One: Why Staying Small Is the Next Big Thing for Business** by *Paul Jarvis*
 Exploring and sketching an antithesis to the Venture Capital centric way of starting a business by keeping things small and as profitable as possible (instead of operating at a loss while aiming for as much growth as possible).
 
+### **The Elephant in the Brain: Hidden Motives in Everyday Life** by *Kevin Simler & Robin Hanson*
+tbd
+
+### **Kane and Abel** by *Jeffrey Archer*
+tbd
+
+### **The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google** by *Scott Galloway*
+tbd
+
 ### **Chronicler Of The Winds** by *Henning Mankell*
 A street child tells his extraordinary story while slowly passing away on the roof of an abandoned theatre.
 
-### **Orders of Battle (Frontlines Book 1-6)** by *Marko Kloos*
+### **Am kürzeren Ende der Sonnenallee** by *Thomas Brussig*
+tbd
+
+### **The Five People You Meet in Heaven** by *Mitch Albom*
+tbd
+
+### **A Knight of the Seven Kingdoms** by *George R. R. Martin*
+The Dunk and Egg novellas, set about a century before the events of A Song of Ice and Fire.
+
+### **Terms of Enlistment (Frontlines Books 1-6)** by *Marko Kloos*
 Science-fiction roman following the protagonist from his youth in a dystopian suburb to joining the military, rising throught the ranks whilst defending earth from an alien threat.
+
+## 2019
+
+### **Tin Men** by *Christopher Golden*
+tbd
+
+### **Bel Ami** by *Guy de Maupassant*
+tbd
+
+### **The World of Yesterday: Memoirs of a European** by *Stefan Zweig*
+tbd
+
+### **Hyperion Cantos 1&2** by *Dan Simmons*
+tbd
+
+### **Homo Deus: A Brief History of Tomorrow** by *Yuval Noah Harari*
+tbd
+
+### **Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think** by *Hans Rosling, Ola Rosling & Anna Rosling Rönnlund*
+tbd
+
+### **Der Hauptmann von Köpenick** by *Carl Zuckmayer*
+tbd
+
+### **The Complete Sherlock Holmes: Volumes 1-4** by *Arthur Conan Doyle*
+tbd
+
+### **Unterwegs im Paradies der alten Männer: Thailand Reisebericht**
+tbd
+
+### **The History of Bees** by *Maja Lunde*
+tbd
+
+### **The Unicorn Project** by *Gene Kim*
+tbd
+
+### **Stranger Than Fiction: True Stories** by *Chuck Palahniuk*
+tbd
+
+### **The Parrot's Theorem** by *Denis Guedj*
+tbd
+
+### **Rich Dad, Poor Dad** by *Robert T. Kiyosaki*
+tbd
+
+## 2018
+
+### **The Phoenix Project** by *Gene Kim, Kevin Behr & George Spafford*
+tbd
+
+### **The Soul of a New Machine** by *Tracy Kidder*
+tbd
+
+### **A Little Life** by *Hanya Yanagihara*
+tbd
+
+### **The Millionaire Next Door** by *Thomas J. Stanley & William D. Danko*
+tbd
+
+### **Perry Rhodan 1-85** by *various authors*
+The long-running German pulp science-fiction series, read from the very first issue onwards.
+
+### **The Story of B** by *Daniel Quinn*
+tbd
