@@ -12,6 +12,9 @@ tbd
 
 ## 2026
 
+### **Homecoming** by *Yaa Gyasi*
+tbd
+
 ### **The Song of Achilles** by *Madeline Miller*
 tbd
 
